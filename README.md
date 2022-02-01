@@ -1,6 +1,6 @@
 # publicTEST
+testtt
  DriverManager.registerDriver(new oracle.jdbc.driver.OracleDriver());
-
      String url="jdbc:oracle:thin:@localhost:1521:orcl";
      String user="test_mark";
      String pass="123412312";
